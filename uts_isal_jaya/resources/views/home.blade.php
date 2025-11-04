@@ -3,7 +3,7 @@
 @section('title', 'Blog Home')
 
 @section('content')
-    <h1>My Blog</h1>
+    <h1></h1>
     
     @foreach($posts as $post)
         <div class="post">
