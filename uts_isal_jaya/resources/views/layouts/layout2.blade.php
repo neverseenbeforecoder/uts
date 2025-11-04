@@ -120,8 +120,9 @@
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">2301010084_RAHARDI...</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FEAT</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">301010082_I KETUT...</a></li>
     </ul>
 </footer>
 
